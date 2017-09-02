@@ -2,6 +2,9 @@ import React from 'react';
 import meme1 from '../img/mem1.jpg';
 import meme2 from '../img/mem2.png';
 import meme3 from '../img/mem3.JPG';
+import meme4 from '../img/mem4.JPG';
+import meme5 from '../img/mem5.JPG';
+import meme6 from '../img/mem6.JPG';
 
 const lulzStyle = {
     width: '100%',
@@ -28,6 +31,15 @@ export class Images extends React.Component {
                 </a>
                 <a href="https://www.youtube.com/watch?v=5LTGF2eSTGk" target="_blank">
                     <img src={meme3} style={imgStyle}/>
+                </a>
+                <a href="https://www.youtube.com/watch?v=d4JEh9hlK_s" target="_blank">
+                    <img src={meme4} style={imgStyle}/>
+                </a>
+                <a href="https://www.youtube.com/watch?v=-4jwzan3AyA" target="_blank">
+                    <img src={meme5} style={imgStyle}/>
+                </a>
+                <a href="https://www.youtube.com/watch?v=_tG6u6TZ8BQ" target="_blank">
+                    <img src={meme6} style={imgStyle}/>
                 </a>
             </div>
         );
