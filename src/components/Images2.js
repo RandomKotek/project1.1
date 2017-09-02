@@ -1,7 +1,4 @@
 import React from 'react';
-import meme1 from '../img/mem1.jpg';
-import meme2 from '../img/mem2.png';
-import meme3 from '../img/mem3.JPG';
 import meme4 from '../img/mem4.jpg';
 import meme5 from '../img/mem5.jpg';
 import meme6 from '../img/mem6.jpg';
