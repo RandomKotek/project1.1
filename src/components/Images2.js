@@ -23,14 +23,16 @@ export class Images2 extends React.Component {
     render() {
         return (
             <div id="lulz" style={lulzStyle}>
-                <a href="https://www.youtube.com/watch?v=5QUZ360iyi0" target="_blank">
-                    <img src={meme1} style={imgStyle}/>
                 </a>
-                <a href="https://www.youtube.com/watch?v=OOQaYdfq-EI" target="_blank">
-                    <img src={meme2} style={imgStyle}/>
+                <a href="https://www.youtube.com/watch?v=d4JEh9hlK_s" target="_blank">
+                    <img src={meme4} style={imgStyle}/>
                 </a>
-                <a href="https://www.youtube.com/watch?v=5LTGF2eSTGk" target="_blank">
-                    <img src={meme3} style={imgStyle}/>
+                <a href="https://www.youtube.com/watch?v=-4jwzan3AyA" target="_blank">
+                    <img src={meme5} style={imgStyle}/>
+                </a>
+                <a href="https://www.youtube.com/watch?v=_tG6u6TZ8BQ" target="_blank">
+                    <img src={meme6} style={imgStyle}/>
+                </a>
             </div>
         );
     }
