@@ -20,7 +20,6 @@ export class Images2 extends React.Component {
     render() {
         return (
             <div id="lulz" style={lulzStyle}>
-                </a>
                 <a href="https://www.youtube.com/watch?v=d4JEh9hlK_s" target="_blank">
                     <img src={meme4} style={imgStyle}/>
                 </a>
